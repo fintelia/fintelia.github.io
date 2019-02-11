@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Jonathan Behrens
 
-You can use the [editor on GitHub](https://github.com/fintelia/fintelia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! I am Jonathan, a third year PhD student in PDOS at MIT CSAIL where I work on operating systems and distributed systems. I'm advised by Frans Kaashoek and Adam Belay.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before MIT, I received an undergraduate degree in Computer Science from Cornell University.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fintelia/fintelia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Shenango: Achieving High CPU Efficiency for Latency-sensitive Datacenter Workloads (NSDI 2019)](https://www.usenix.org/conference/nsdi19/presentation/ousterhout) Amy Ousterhout, Joshua Fried, **Jonathan** **Behrens**, Adam Belay, and Hari Balakrishnan
+* [Derecho: Fast State Machine Replication for Cloud Services](/papers/derecho-tocs.pdf) (forthcoming, TOCS) Sagar Jha, **Jonathan** **Behrens**, Theo Gkountouvas, Matthew Milano, Weijia Song, Edward Tremel, Sydney Zink, Kenneth P. Birman, Robbert van Renesse
+* [Noria: dynamic, partially-stateful data-flow for high-performance web applications](https://www.usenix.org/conference/osdi18/presentation/gjengset) (OSDI 2018) Jon Gjengset, Malte Schwarzkopf, **Jonathan** **Behrens**, and Lara Timbó Araújo, Martin Ek, Eddie Kohler, M. Frans Kaashoek and Robert Morris
+* [RDMC: A Reliable RDMA Multicast for Large Objects](/papers/rdmc-dsn18.pdf) (DSN 2018) **Jonathan** **Behrens**, Sagar Jha, Ken Birman, Edward Tremel
+* [Distributed Dynamic Partially Stateful Dataflow](/papers/noria-distributed.pdf) (Masters Thesis) **Jonathan** **Behrens**
